@@ -8,7 +8,7 @@
 |Pauli-Z (Z)|$-\boxed{Z}-$|$$\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$$|![Z门](./images/Zgate.gif)|
 |Hadamard (H)|$-\boxed{H}-$|$$ \frac{1}{\sqrt{2}}\begin{bmatrix} 1 & 1 \\ 1 & -1 \end{bmatrix} $$|![H门](./images/Hgate.gif)|
 |Phase (S, P)|$-\boxed{S}- $|$$\begin{bmatrix} 1 & 0 \\ 0 & i \end{bmatrix}$$|![S门](./images/Sgate.gif)|
-|$\pi/8$ (T)|$-\boxed{T}- $|$$\begin{bmatrix} 1 & 0 \\ 0 & i \end{bmatrix}$$|![S门](./images/Tgate.gif)|
+|$\pi/8$ (T)|$-\boxed{T}- $|$$\begin{bmatrix} 1 & 0 \\ 0 & e^{i\pi/4} \end{bmatrix}$$|![T门](./images/Tgate.gif)|
 |Controlled Not (CNOT, CX)|![CNOT门](./images/CNOTgate.png)|$$ \begin{bmatrix} I & 0 \\ 0 & X \end{bmatrix}$$|
 |Controlled Z (CZ)|![CZ门](./images/CZgate.png)|$$ \begin{bmatrix} I & 0 \\ 0 & Z \end{bmatrix}$$||
 |SWAP|![SWAP门](./images/SWAPgate.png)|$$\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}$$||
