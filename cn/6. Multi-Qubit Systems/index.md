@@ -1,0 +1,20 @@
+# 多量子位系统
+
+- 扁平部分：
+- [6.1 概述.md](./6.1%20Overview.md)
+- [6.2 多量子位系统.md](./6.2%20Multi-Qubit%20Systems.md)
+- [6.3 可分离状态.md](./6.3%20Separable%20States.md)
+- [6.4 纠缠.md](./6.4%20Entanglement.md)
+- [6.5 狄拉克符号.md](./6.5%20Dirac%20Notation.md)
+- [6.6 Q#.md 中的多量子位系统](./6.6%20Multi-Qubit%20Systems%20in%20Q%23.md)
+- [6.7 使用 DumpMachine.md 学习基态振幅](./6.7%20Learn%20Basis%20State%20Amplitudes%20Using%20DumpMachine.md)
+- [6.8 可分离状态准备.md](./6.8%20Separable%20State%20Preparation.md)
+- [6.9 准备基础状态.md](./6.9%20Prepare%20a%20Basis%20State.md)
+- [6.10 准备两个基态的叠加.md](./6.10%20Prepare%20a%20Superposition%20of%20Two%20Basis%20States.md)
+- [6.11 准备一个真实振幅的叠加.md](./6.11%20Prepare%20a%20Superposition%20with%20Real%20Amplitudes.md)
+- [6.12 准备复振幅叠加.md](./6.12%20Prepare%20a%20Superposition%20with%20Complex%20Amplitudes.md)
+- [6.13 修改纠缠态.md](./6.13%20Modifying%20Entangled%20States.md)
+- [6.14 响铃状态更改 1.md](./6.14%20Bell%20State%20Change%201.md)
+- [6.15 响铃状态更改 2.md](./6.15%20Bell%20State%20Change%202.md)
+- [6.16 响铃状态更改 3.md](./6.16%20Bell%20State%20Change%203.md)
+- [6.17 结论.md](./6.17%20Conclusion.md)

@@ -1,0 +1,20 @@
+# 量子傅立叶变换
+
+- 扁平部分：
+- [24.1 概述.md](./24.1%20Overview.md)
+- [24.2 实现量子傅里叶变换.md](./24.2%20Implementing%20Quantum%20Fourier%20Transform.md)
+- [24.3 单量子位 QFT.md](./24.3%20Single-Qubit%20QFT.md)
+- [24.4 旋转门.md](./24.4%20Rotation%20Gate.md)
+- [24.5 二进制分数指数（经典输入）.md](./24.5%20Binary%20Fraction%20Exponent%20%28Classical%20Input%29.md)
+- [24.6 二进制分数指数（量子输入）.md](./24.6%20Binary%20Fraction%20Exponent%20%28Quantum%20Input%29.md)
+- [24.7 就地二进制分数指数（量子输入）.md](./24.7%20Binary%20Fraction%20Exponent%20In-Place%20%28Quantum%20Input%29.md)
+- [24.8 量子傅里叶变换.md](./24.8%20Quantum%20Fourier%20Transform.md)
+- [24.9 两个QFT符号的等价.md](./24.9%20The%20Equivalence%20of%20Two%20QFT%20Notations.md)
+- [24.10 使用量子傅里叶变换.md](./24.10%20Using%20Quantum%20Fourier%20Transform.md)
+- [24.11 准备所有基向量的均匀叠加.md](./24.11%20Prepare%20Even%20Superposition%20of%20All%20Basis%20Vectors.md)
+- [24.12 准备周期状态.md](./24.12%20Prepare%20a%20Periodic%20State.md)
+- [24.13 准备一个具有交替振幅的状态.md](./24.13%20Prepare%20a%20State%20with%20Alternating%20Amplitudes.md)
+- [24.14 准备所有偶基向量的偶叠加.md](./24.14%20Prepare%20Even%20Superposition%20of%20All%20Even%20Basis%20Vectors.md)
+- [24.15 准备方波信号.md](./24.15%20Prepare%20Square-Wave%20Signal.md)
+- [24.16 获取信号频率.md](./24.16%20Get%20Signal%20Frequency.md)
+- [24.17 结论.md](./24.17%20Conclusion.md)

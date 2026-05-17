@@ -1,0 +1,20 @@
+# Nonlocal Games
+
+- Flattened sections:
+- [27.1 Overview.md](./27.1%20Overview.md)
+- [27.2 CHSH Game.md](./27.2%20CHSH%20Game.md)
+- [27.3 Win Condition.md](./27.3%20Win%20Condition.md)
+- [27.4 Alice and Bob's Classical Strategy.md](./27.4%20Alice%20and%20Bob%27s%20Classical%20Strategy.md)
+- [27.5 Alice's Quantum Strategy.md](./27.5%20Alice%27s%20Quantum%20Strategy.md)
+- [27.6 Bob's Quantum Strategy.md](./27.6%20Bob%27s%20Quantum%20Strategy.md)
+- [27.7 Discussion - Probability of Victory for Quantum Strategy.md](./27.7%20Discussion%20-%20Probability%20of%20Victory%20for%20Quantum%20Strategy.md)
+- [27.8 Running CHSH Game End to End.md](./27.8%20Running%20CHSH%20Game%20End%20to%20End.md)
+- [27.9 GHZ Game.md](./27.9%20GHZ%20Game.md)
+- [27.10 Win Condition.md](./27.10%20Win%20Condition.md)
+- [27.11 Classical Strategy.md](./27.11%20Classical%20Strategy.md)
+- [27.12 Classical GHZ Game.md](./27.12%20Classical%20GHZ%20Game.md)
+- [27.13 Create Entangled Triple.md](./27.13%20Create%20Entangled%20Triple.md)
+- [27.14 Quantum Strategy.md](./27.14%20Quantum%20Strategy.md)
+- [27.15 Discussion - Why the GHZ Quantum Strategy has a 100% Win Rate.md](./27.15%20Discussion%20-%20Why%20the%20GHZ%20Quantum%20Strategy%20has%20a%20100%25%20Win%20Rate.md)
+- [27.16 Running GHZ Game End to End.md](./27.16%20Running%20GHZ%20Game%20End%20to%20End.md)
+- [27.17 Conclusion.md](./27.17%20Conclusion.md)

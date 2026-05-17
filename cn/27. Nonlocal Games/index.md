@@ -1,0 +1,20 @@
+# 非本地游戏
+
+- 扁平部分：
+- [27.1 概述.md](./27.1%20Overview.md)
+- [27.2 CHSH Game.md](./27.2%20CHSH%20Game.md)
+- [27.3 获胜条件.md](./27.3%20Win%20Condition.md)
+- [27.4 Alice 和 Bob 的经典策略.md](./27.4%20Alice%20and%20Bob%27s%20Classical%20Strategy.md)
+- [27.5 爱丽丝的量子策略.md](./27.5%20Alice%27s%20Quantum%20Strategy.md)
+- [27.6 鲍勃的量子策略.md](./27.6%20Bob%27s%20Quantum%20Strategy.md)
+- [27.7讨论-量子策略胜利概率.md](./27.7%20Discussion%20-%20Probability%20of%20Victory%20for%20Quantum%20Strategy.md)
+- [27.8 端到端运行 CHSH 游戏.md](./27.8%20Running%20CHSH%20Game%20End%20to%20End.md)
+- [27.9 GHZ Game.md](./27.9%20GHZ%20Game.md)
+- [27.10 获胜条件.md](./27.10%20Win%20Condition.md)
+- [27.11 经典策略.md](./27.11%20Classical%20Strategy.md)
+- [27.12 经典 GHZ 游戏.md](./27.12%20Classical%20GHZ%20Game.md)
+- [27.13 创建纠缠三元组.md](./27.13%20Create%20Entangled%20Triple.md)
+- [27.14 量子策略.md](./27.14%20Quantum%20Strategy.md)
+- [27.15讨论-GHZ量子策略为何胜率100%.md](./27.15%20Discussion%20-%20Why%20the%20GHZ%20Quantum%20Strategy%20has%20a%20100%25%20Win%20Rate.md)
+- [27.16 端到端运行 GHZ 游戏.md](./27.16%20Running%20GHZ%20Game%20End%20to%20End.md)
+- [27.17 结论.md](./27.17%20Conclusion.md)

@@ -1,0 +1,21 @@
+# Distinguishing Unitaries
+
+- Flattened sections:
+- [12.1 Overview.md](./12.1%20Overview.md)
+- [12.2 Distinguishing Single-Qubit Gates.md](./12.2%20Distinguishing%20Single-Qubit%20Gates.md)
+- [12.3 Identity or X.md](./12.3%20Identity%20or%20X.md)
+- [12.4 Identity or Z.md](./12.4%20Identity%20or%20Z.md)
+- [12.5 Z or S.md](./12.5%20Z%20or%20S.md)
+- [12.6 Hadamard or X.md](./12.6%20Hadamard%20or%20X.md)
+- [12.7 Z or -Z.md](./12.7%20Z%20or%20-Z.md)
+- [12.8 Rz or R1.md](./12.8%20Rz%20or%20R1.md)
+- [12.9 Y or XZ.md](./12.9%20Y%20or%20XZ.md)
+- [12.10 Y or XZ or -Y or -XZ.md](./12.10%20Y%20or%20XZ%20or%20-Y%20or%20-XZ.md)
+- [12.11 Distinguish Four Pauli Unitaries.md](./12.11%20Distinguish%20Four%20Pauli%20Unitaries.md)
+- [12.12 Rz or Ry.md](./12.12%20Rz%20or%20Ry.md)
+- [12.13 Distinguishing Multi-Qubit Gates.md](./12.13%20Distinguishing%20Multi-Qubit%20Gates.md)
+- [12.14 I⊗X or CNOT.md](./12.14%20I%E2%8A%97X%20or%20CNOT.md)
+- [12.15 CNOT Direction.md](./12.15%20CNOT%20Direction.md)
+- [12.16 CNOT or SWAP.md](./12.16%20CNOT%20or%20SWAP.md)
+- [12.17 Distinguish Two-Qubit Unitaries.md](./12.17%20Distinguish%20Two-Qubit%20Unitaries.md)
+- [12.18 Conclusion.md](./12.18%20Conclusion.md)
