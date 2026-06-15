@@ -1,11 +1,11 @@
-# 神谕者
+# 预言机者
 
 - 扁平部分：
 - [17.1 概述.md](./17.1%20Overview.md)
-- [17.2 古典神谕.md](./17.2%20Classical%20Oracles.md)
+- [17.2 经典预言机.md](./17.2%20Classical%20Oracles.md)
 - [17.3 实现经典 Oracle.md](./17.3%20Implement%20a%20Classical%20Oracle.md)
 - [17.4 量子预言.md](./17.4%20Quantum%20Oracles.md)
-- [17.5 阶段神谕.md](./17.5%20Phase%20Oracles.md)
+- [17.5 阶段预言机.md](./17.5%20Phase%20Oracles.md)
 - [17.6 交替位模式函数的相位预言机.md](./17.6%20Phase%20Oracle%20for%20Alternating%20Bit%20Pattern%20Function.md)
 - [17.7 实现阶段 Oracle.md](./17.7%20Implement%20a%20Phase%20Oracle.md)
 - [17.8 标记 Oracles.md](./17.8%20Marking%20Oracles.md)
