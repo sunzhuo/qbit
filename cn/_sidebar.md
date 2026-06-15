@@ -267,7 +267,7 @@
   * [Bob 的任务：解码消息](16.%20Superdense%20Coding/16.4%20Bob%27s%20Task%20-%20Decode%20Message.md)
   * [超密集编码协议：端到端](16.%20Superdense%20Coding/16.5%20Superdense%20Coding%20Protocol%20-%20End%20to%20End.md)
   * [结论](16.%20Superdense%20Coding/16.6%20Conclusion.md)
-* [17. 预言机者](17.%20Oracles/index.md)
+* [17. 预言机](17.%20Oracles/index.md)
   * [概述](17.%20Oracles/17.1%20Overview.md)
   * [经典预言机](17.%20Oracles/17.2%20Classical%20Oracles.md)
   * [实现一个经典的预言机](17.%20Oracles/17.3%20Implement%20a%20Classical%20Oracle.md)
