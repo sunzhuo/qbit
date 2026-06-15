@@ -24,7 +24,7 @@
 - [量子密钥分发](14.%20Quantum%20Key%20Distribution/index.md)
 - [传送](15.%20Teleportation/index.md)
 - [超密集编码](16.%20Superdense%20Coding/index.md)
-- [神谕者](17.%20Oracles/index.md)
+- [预言机者](17.%20Oracles/index.md)
 - [标记预言机](18.%20Marking%20Oracles/index.md)
 - [德语算法](19.%20Deutsch%20Algorithm/index.md)
 - [Deutsch-Jozsa 和 Bernstein-Vazirani 算法](20.%20Deutsch-Jozsa%20and%20Bernstein-Vazirani%20Algorithms/index.md)
